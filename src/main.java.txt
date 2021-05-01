@@ -1,3 +1,7 @@
 Customer A
 this is bug fix
 
+=======
+
+
+One important fix in customerB
